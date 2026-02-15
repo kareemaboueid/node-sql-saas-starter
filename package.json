@@ -1,0 +1,21 @@
+{
+  "name": "node-sql-saas-starter",
+  "description": "A boilerplate SAAS project for building robust RESTful APIs using Node.js, Express, and MySQL.",
+  "version": "1.0.1",
+  "type": "module",
+  "repository": "https://github.com/kareemaboueid/node-sql-saas-starter.git",
+  "author": "Kareem Aboueid <kareem_aboueid@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "joi": "^18.0.2",
+    "helmet": "^8.1.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "winston": "^3.19.0"
+  }
+}
